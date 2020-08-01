@@ -1,1 +1,2 @@
-Ini submission saya untuk Kelas Belajar Fundamental Front-End Web Development Dicoding
+# FOOTBALL LEAGUE
+Ini Project untuk submission Kelas Belajar Fundamental Front-End Web Development dari DICODING
